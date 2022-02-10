@@ -2,13 +2,17 @@
 
 To create a face mask detector model using deep learning techniques.
 
+
 Language : Python 
 Modules : tensorflow, keras, sklearn and OpenCV
 
+
 Procedure :->
 
-run  model.py to train and save the model mask_detector.model
-For static images detection use image.py
+run  model.py to train and save the model mask_detector.model  
+
+For static images detection use image.py 
+
 For real time detection use video.py
 
 
